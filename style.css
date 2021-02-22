@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.recipe-list {
+  display: flex;
+  width: 1200px;
+  flex-wrap: wrap;
+}
+
+.recipe {
+  padding: 20px;
+  width: 400px;
+}
